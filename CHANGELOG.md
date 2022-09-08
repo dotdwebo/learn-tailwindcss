@@ -1,3 +1,4 @@
+*  [`72a7207`](https://github.com/dotdwebo/learn-tailwindcss/commit/72a7207) - add: tailwind directive to input.css
 *  [`c7e6660`](https://github.com/dotdwebo/learn-tailwindcss/commit/c7e6660) - create: src folder
 *  [`b1d15fa`](https://github.com/dotdwebo/learn-tailwindcss/commit/b1d15fa) - npm init
 *  [`bece5b6`](https://github.com/dotdwebo/learn-tailwindcss/commit/bece5b6) - update tailwind config
