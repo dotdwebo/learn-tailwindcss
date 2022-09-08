@@ -1,3 +1,4 @@
+*  [`72c423e`](https://github.com/dotdwebo/learn-tailwindcss/commit/72c423e) 2022-09-09 - add: alert06.png to images folder
 *  [`e9f4887`](https://github.com/dotdwebo/learn-tailwindcss/commit/e9f4887) 2022-09-09 - create: touch06.html (alert with icon)
 *  [`ee8fbcf`](https://github.com/dotdwebo/learn-tailwindcss/commit/ee8fbcf) 2022-09-09 - update: README.md
 *  [`7062320`](https://github.com/dotdwebo/learn-tailwindcss/commit/7062320) 2022-09-09 - add: alert005.png to images folder

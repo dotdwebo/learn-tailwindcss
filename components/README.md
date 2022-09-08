@@ -15,3 +15,6 @@
 ***
 ## [Alert 05](./alerts/alert05.html)
 ![alert05](./alerts/images/alert05.png)
+***
+## [Alert06](./alerts/alert06.html)
+![alert06](./alerts/images/alert06.png)
