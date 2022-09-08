@@ -1,3 +1,4 @@
+*  [`b1d15fa`](https://github.com/dotdwebo/learn-tailwindcss/commit/b1d15fa) - npm init
 *  [`bece5b6`](https://github.com/dotdwebo/learn-tailwindcss/commit/bece5b6) - update tailwind config
 *  [`8f9871a`](https://github.com/dotdwebo/learn-tailwindcss/commit/8f9871a) - npx tailwindcss init
 *  [`013e0f3`](https://github.com/dotdwebo/learn-tailwindcss/commit/013e0f3) - npm install -D tailwindcss
