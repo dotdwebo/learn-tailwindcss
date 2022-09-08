@@ -739,6 +739,10 @@ video {
 }
 
 @media (min-width: 640px) {
+  .sm\:flex {
+    display: flex;
+  }
+
   .sm\:w-2\/3 {
     width: 66.666667%;
   }
