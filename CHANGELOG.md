@@ -1,3 +1,4 @@
+*  [`4742372`](https://github.com/dotdwebo/learn-tailwindcss/commit/4742372) 2022-09-09 - update: README.md
 *  [`a3adf3b`](https://github.com/dotdwebo/learn-tailwindcss/commit/a3adf3b) 2022-09-09 - update: README.md
 *  [`8d2db34`](https://github.com/dotdwebo/learn-tailwindcss/commit/8d2db34) 2022-09-09 - add alert06.png. Corrected.
 *  [`ad8c928`](https://github.com/dotdwebo/learn-tailwindcss/commit/ad8c928) 2022-09-09 - edit alert06.html. Reason: typo
