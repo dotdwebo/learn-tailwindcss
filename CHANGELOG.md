@@ -1,3 +1,4 @@
+*  [`9c89c04`](https://github.com/dotdwebo/learn-tailwindcss/commit/9c89c04) 2022-09-09 - add: border-l-4 as the main style
 *  [`68063a0`](https://github.com/dotdwebo/learn-tailwindcss/commit/68063a0) 2022-09-09 - create: alert02.html
 *  [`7c9987e`](https://github.com/dotdwebo/learn-tailwindcss/commit/7c9987e) 2022-09-09 - add: sm:flex
 *  [`886dd0e`](https://github.com/dotdwebo/learn-tailwindcss/commit/886dd0e) 2022-09-09 - edit: README.md
