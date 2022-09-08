@@ -1,0 +1,7 @@
+[user]
+    name = dotdwebo
+    email = iamdwebo@protonmail.com
+[init]
+    defaultbranch = main
+[alias]
+    hist = "log --pretty='[`%h`](https://github.com/dotdwebo/learn-tailwindcss/commit/%h) - %d %s ' --graph"
