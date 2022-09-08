@@ -1,3 +1,4 @@
+*  [`b53d333`](https://github.com/dotdwebo/learn-tailwindcss/commit/b53d333) 2022-09-09 - create: alert03
 *  [`cd7522e`](https://github.com/dotdwebo/learn-tailwindcss/commit/cd7522e) 2022-09-09 - edit: typo on comment
 *  [`db0dc9e`](https://github.com/dotdwebo/learn-tailwindcss/commit/db0dc9e) 2022-09-09 - edit: typo on comment
 *  [`9149c13`](https://github.com/dotdwebo/learn-tailwindcss/commit/9149c13) 2022-09-09 - edit: README.md
