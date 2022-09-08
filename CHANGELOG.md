@@ -1,3 +1,4 @@
+*  [`91b8602`](https://github.com/dotdwebo/learn-tailwindcss/commit/91b8602) 2022-09-09 - edit: README.md
 *  [`e996b2d`](https://github.com/dotdwebo/learn-tailwindcss/commit/e996b2d) 2022-09-09 - update: README.md
 *  [`2fb0227`](https://github.com/dotdwebo/learn-tailwindcss/commit/2fb0227) 2022-09-09 - update: README.md
 *  [`0fccce0`](https://github.com/dotdwebo/learn-tailwindcss/commit/0fccce0) 2022-09-09 - update: README.md
