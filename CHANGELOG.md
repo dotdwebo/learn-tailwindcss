@@ -1,3 +1,4 @@
+*  [`e996b2d`](https://github.com/dotdwebo/learn-tailwindcss/commit/e996b2d) 2022-09-09 - update: README.md
 *  [`2fb0227`](https://github.com/dotdwebo/learn-tailwindcss/commit/2fb0227) 2022-09-09 - update: README.md
 *  [`0fccce0`](https://github.com/dotdwebo/learn-tailwindcss/commit/0fccce0) 2022-09-09 - update: README.md
 *  [`adb31eb`](https://github.com/dotdwebo/learn-tailwindcss/commit/adb31eb) 2022-09-08 - create: images folder & upload: alert01.png
