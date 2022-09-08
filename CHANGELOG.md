@@ -1,3 +1,4 @@
+*  [`2d80141`](https://github.com/dotdwebo/learn-tailwindcss/commit/2d80141) 2022-09-08 - add: components folder & the readme file #components
 *  [`d067842`](https://github.com/dotdwebo/learn-tailwindcss/commit/d067842) 2022-09-08 - add: tailwind classess (ex: text-,font-,bg-,p-)
 *  [`904e34f`](https://github.com/dotdwebo/learn-tailwindcss/commit/904e34f) 2022-09-08 - edit: tailwind link on html file
 *  [`7a75665`](https://github.com/dotdwebo/learn-tailwindcss/commit/7a75665) 2022-09-08 - edit: tailwind config file
