@@ -1,0 +1,22 @@
+{
+  "name": "learn-tailwindcss",
+  "version": "1.0.0",
+  "description": "learning basic of tailwindcss",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotdwebo/learn-tailwindcss.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "dotdwebo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotdwebo/learn-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/dotdwebo/learn-tailwindcss#readme"
+}
