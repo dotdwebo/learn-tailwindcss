@@ -1,3 +1,4 @@
+*  [`db0dc9e`](https://github.com/dotdwebo/learn-tailwindcss/commit/db0dc9e) 2022-09-09 - edit: typo on comment
 *  [`9149c13`](https://github.com/dotdwebo/learn-tailwindcss/commit/9149c13) 2022-09-09 - edit: README.md
 *  [`9c89c04`](https://github.com/dotdwebo/learn-tailwindcss/commit/9c89c04) 2022-09-09 - add: border-l-4 as the main style
 *  [`68063a0`](https://github.com/dotdwebo/learn-tailwindcss/commit/68063a0) 2022-09-09 - create: alert02.html
