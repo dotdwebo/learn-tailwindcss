@@ -1,3 +1,4 @@
+*  [`013e0f3`](https://github.com/dotdwebo/learn-tailwindcss/commit/013e0f3) - npm install -D tailwindcss
 *  [`83c29f5`](https://github.com/dotdwebo/learn-tailwindcss/commit/83c29f5) - update: index.html
 *  [`b7b020b`](https://github.com/dotdwebo/learn-tailwindcss/commit/b7b020b) - update: index.html
 *  [`69c50a0`](https://github.com/dotdwebo/learn-tailwindcss/commit/69c50a0) - update: index.html
