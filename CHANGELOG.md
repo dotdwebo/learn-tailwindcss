@@ -1,3 +1,4 @@
+*  [`7062320`](https://github.com/dotdwebo/learn-tailwindcss/commit/7062320) 2022-09-09 - add: alert005.png to images folder
 *  [`f098cd3`](https://github.com/dotdwebo/learn-tailwindcss/commit/f098cd3) 2022-09-09 - create: alert05. Dark style
 *  [`c947b88`](https://github.com/dotdwebo/learn-tailwindcss/commit/c947b88) 2022-09-09 - add: edit README.md
 *  [`cbc78f5`](https://github.com/dotdwebo/learn-tailwindcss/commit/cbc78f5) 2022-09-09 - commit
