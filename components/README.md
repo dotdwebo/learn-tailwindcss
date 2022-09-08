@@ -18,3 +18,6 @@
 ***
 ## [Alert06](./alerts/alert06.html)
 ![alert06](./alerts/images/alert06.png) 
+***
+## [Alert07](./alerts/alert07.html)
+![alert07](./alerts/images/alert07.png)
