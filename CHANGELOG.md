@@ -1,3 +1,4 @@
+*  [`a856198`](https://github.com/dotdwebo/learn-tailwindcss/commit/a856198) 2022-09-08 - create: alert01
 *  [`6e92ea9`](https://github.com/dotdwebo/learn-tailwindcss/commit/6e92ea9) 2022-09-08 - edit: tailwind config
 *  [`2d80141`](https://github.com/dotdwebo/learn-tailwindcss/commit/2d80141) 2022-09-08 - add: components folder & the readme file #components
 *  [`d067842`](https://github.com/dotdwebo/learn-tailwindcss/commit/d067842) 2022-09-08 - add: tailwind classess (ex: text-,font-,bg-,p-)
