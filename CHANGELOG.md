@@ -1,3 +1,4 @@
+*  [`d067842`](https://github.com/dotdwebo/learn-tailwindcss/commit/d067842) 2022-09-08 - add: tailwind classess (ex: text-,font-,bg-,p-)
 *  [`904e34f`](https://github.com/dotdwebo/learn-tailwindcss/commit/904e34f) 2022-09-08 - edit: tailwind link on html file
 *  [`7a75665`](https://github.com/dotdwebo/learn-tailwindcss/commit/7a75665) 2022-09-08 - edit: tailwind config file
 *  [`39eb85c`](https://github.com/dotdwebo/learn-tailwindcss/commit/39eb85c) 2022-09-08 - add: tailwindcss to html file
