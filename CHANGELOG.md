@@ -1,3 +1,4 @@
+*  [`7e3dcb2`](https://github.com/dotdwebo/learn-tailwindcss/commit/7e3dcb2) 2022-09-09 - add: alert04.png to images/ folder
 *  [`cba5e28`](https://github.com/dotdwebo/learn-tailwindcss/commit/cba5e28) 2022-09-09 - create: gradient style
 *  [`82f1be1`](https://github.com/dotdwebo/learn-tailwindcss/commit/82f1be1) 2022-09-09 - create: alert 04
 *  [`b1b5229`](https://github.com/dotdwebo/learn-tailwindcss/commit/b1b5229) 2022-09-09 - edit: README.md

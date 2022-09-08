@@ -9,3 +9,6 @@
 ***
 ## [Alert 03](./alerts/alert03.html)
 ![alert03](./alerts/images/alert03.png)
+***
+## [Alert 04](./alerts/alert04.html)
+![alert04](./alerts/images/alert04.png)
