@@ -1,3 +1,4 @@
+*  [`39eb85c`](https://github.com/dotdwebo/learn-tailwindcss/commit/39eb85c) 2022-09-08 - add: tailwindcss to html file
 *  [`ead940f`](https://github.com/dotdwebo/learn-tailwindcss/commit/ead940f) 2022-09-08 - update: content location
 *  [`ade4ec5`](https://github.com/dotdwebo/learn-tailwindcss/commit/ade4ec5) 2022-09-08 - start: Tailwind CLI build process.
 *  [`72a7207`](https://github.com/dotdwebo/learn-tailwindcss/commit/72a7207) 2022-09-08 - add: tailwind directive to input.css
