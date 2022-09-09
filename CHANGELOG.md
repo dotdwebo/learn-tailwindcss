@@ -1,3 +1,4 @@
+*  [`24d4bcd`](https://github.com/dotdwebo/learn-tailwindcss/commit/24d4bcd) 2022-09-09 - update: README.md
 *  [`4110a3d`](https://github.com/dotdwebo/learn-tailwindcss/commit/4110a3d) 2022-09-09 - update: README.md
 *  [`1f3b5c9`](https://github.com/dotdwebo/learn-tailwindcss/commit/1f3b5c9) 2022-09-09 - update: README.md
 *  [`2090b7c`](https://github.com/dotdwebo/learn-tailwindcss/commit/2090b7c) 2022-09-09 - add: image for alert 07
