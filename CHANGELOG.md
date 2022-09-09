@@ -1,3 +1,4 @@
+*  [`57e4f37`](https://github.com/dotdwebo/learn-tailwindcss/commit/57e4f37) 2022-09-09 - add image
 *  [`48806f4`](https://github.com/dotdwebo/learn-tailwindcss/commit/48806f4) 2022-09-09 - commit
 *  [`aa1fb49`](https://github.com/dotdwebo/learn-tailwindcss/commit/aa1fb49) 2022-09-09 - add image
 *  [`ba8bb1b`](https://github.com/dotdwebo/learn-tailwindcss/commit/ba8bb1b) 2022-09-09 - create: images folder
