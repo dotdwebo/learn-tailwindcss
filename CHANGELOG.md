@@ -1,3 +1,4 @@
+*  [`a24afe2`](https://github.com/dotdwebo/learn-tailwindcss/commit/a24afe2) 2022-09-09 - edit: README.md
 *  [`70b3694`](https://github.com/dotdwebo/learn-tailwindcss/commit/70b3694) 2022-09-09 - move: README.md to alerts folder
 *  [`24d4bcd`](https://github.com/dotdwebo/learn-tailwindcss/commit/24d4bcd) 2022-09-09 - update: README.md
 *  [`4110a3d`](https://github.com/dotdwebo/learn-tailwindcss/commit/4110a3d) 2022-09-09 - update: README.md
