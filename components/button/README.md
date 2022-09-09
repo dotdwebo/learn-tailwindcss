@@ -15,3 +15,6 @@
 ***
 ## [Button 05](./button05.html)
 ![button05](./images/button05.png)
+***
+## [Button 06](./button06.html)
+![button06](./images/button06.png)
