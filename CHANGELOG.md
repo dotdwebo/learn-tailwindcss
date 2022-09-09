@@ -1,3 +1,4 @@
+*  [`28628a1`](https://github.com/dotdwebo/learn-tailwindcss/commit/28628a1) 2022-09-09 - edit: div order
 *  [`49bfa15`](https://github.com/dotdwebo/learn-tailwindcss/commit/49bfa15) 2022-09-09 - update: readme
 *  [`4265107`](https://github.com/dotdwebo/learn-tailwindcss/commit/4265107) 2022-09-09 - upload: image for button 02
 *  [`0e69738`](https://github.com/dotdwebo/learn-tailwindcss/commit/0e69738) 2022-09-09 - create: button 02
