@@ -1,3 +1,4 @@
+*  [`1332a7c`](https://github.com/dotdwebo/learn-tailwindcss/commit/1332a7c) 2022-09-09 - update: readme
 *  [`03aa4c5`](https://github.com/dotdwebo/learn-tailwindcss/commit/03aa4c5) 2022-09-09 - add: image for button 03
 *  [`9d385dc`](https://github.com/dotdwebo/learn-tailwindcss/commit/9d385dc) 2022-09-09 - create: button 03
 *  [`fc4180a`](https://github.com/dotdwebo/learn-tailwindcss/commit/fc4180a) 2022-09-09 - upload: image for button01
