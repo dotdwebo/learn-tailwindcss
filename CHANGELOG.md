@@ -1,3 +1,4 @@
+*  [`1f3b5c9`](https://github.com/dotdwebo/learn-tailwindcss/commit/1f3b5c9) 2022-09-09 - update: README.md
 *  [`2090b7c`](https://github.com/dotdwebo/learn-tailwindcss/commit/2090b7c) 2022-09-09 - add: image for alert 07
 *  [`f1f23cb`](https://github.com/dotdwebo/learn-tailwindcss/commit/f1f23cb) 2022-09-09 - add border
 *  [`6eb0a13`](https://github.com/dotdwebo/learn-tailwindcss/commit/6eb0a13) 2022-09-09 - add: border
