@@ -7,7 +7,7 @@ This repo was created to help me understand the concepts in Tailwind CSS more de
 
 ***
 ### Components 
-#### - ![Alert](/components/alerts)
+#### - [Alert](/components/alerts)
 
 ***
 ### Changelog
