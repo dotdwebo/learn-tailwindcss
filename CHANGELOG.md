@@ -1,3 +1,5 @@
+*  [`c6f3973`](https://github.com/dotdwebo/learn-tailwindcss/commit/c6f3973) 2022-09-11 - create: card 03
+*  [`2fa4fb5`](https://github.com/dotdwebo/learn-tailwindcss/commit/2fa4fb5) 2022-09-11 - upload: image for card03
 *  [`c97b346`](https://github.com/dotdwebo/learn-tailwindcss/commit/c97b346) 2022-09-11 - update: readme
 *  [`fbffcac`](https://github.com/dotdwebo/learn-tailwindcss/commit/fbffcac) 2022-09-11 - create: card 02 (card with photo)
 *  [`53ffffa`](https://github.com/dotdwebo/learn-tailwindcss/commit/53ffffa) 2022-09-11 - upload: panorama.png
