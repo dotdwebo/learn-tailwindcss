@@ -1,3 +1,4 @@
+*  [`3ba9a96`](https://github.com/dotdwebo/learn-tailwindcss/commit/3ba9a96) 2022-09-11 - update: readme
 *  [`324062a`](https://github.com/dotdwebo/learn-tailwindcss/commit/324062a) 2022-09-11 - update: changelog
 *  [`cc391e6`](https://github.com/dotdwebo/learn-tailwindcss/commit/cc391e6) 2022-09-11 - edit readme
 *  [`3c1ab1f`](https://github.com/dotdwebo/learn-tailwindcss/commit/3c1ab1f) 2022-09-11 - move image to images/ folder
