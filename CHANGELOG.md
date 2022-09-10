@@ -1,3 +1,4 @@
+*  [`53ffffa`](https://github.com/dotdwebo/learn-tailwindcss/commit/53ffffa) 2022-09-11 - upload: panorama.png
 *  [`9643bdf`](https://github.com/dotdwebo/learn-tailwindcss/commit/9643bdf) 2022-09-11 - edit: readme
 *  [`3ba9a96`](https://github.com/dotdwebo/learn-tailwindcss/commit/3ba9a96) 2022-09-11 - update: readme
 *  [`324062a`](https://github.com/dotdwebo/learn-tailwindcss/commit/324062a) 2022-09-11 - update: changelog
