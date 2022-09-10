@@ -9,6 +9,7 @@ This repo was created to help me understand the concepts in Tailwind CSS more de
 ### Components 
 #### - [Alert](/components/alerts)
 #### - [Button](/components/button)
+#### - [Form](/components/form)
 
 ***
 ### Changelog
