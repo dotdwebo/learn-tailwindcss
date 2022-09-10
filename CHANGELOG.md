@@ -1,3 +1,6 @@
+*  [`324062a`](https://github.com/dotdwebo/learn-tailwindcss/commit/324062a) 2022-09-11 - update: changelog
+*  [`cc391e6`](https://github.com/dotdwebo/learn-tailwindcss/commit/cc391e6) 2022-09-11 - edit readme
+*  [`3c1ab1f`](https://github.com/dotdwebo/learn-tailwindcss/commit/3c1ab1f) 2022-09-11 - move image to images/ folder
 *  [`98760ef`](https://github.com/dotdwebo/learn-tailwindcss/commit/98760ef) 2022-09-11 - add: image for card01
 *  [`de47826`](https://github.com/dotdwebo/learn-tailwindcss/commit/de47826) 2022-09-11 - create: card01
 *  [`cc925a9`](https://github.com/dotdwebo/learn-tailwindcss/commit/cc925a9) 2022-09-10 - create: card folder and its readme
