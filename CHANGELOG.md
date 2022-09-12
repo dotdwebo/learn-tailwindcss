@@ -1,3 +1,4 @@
+*  [`493e77e`](https://github.com/dotdwebo/learn-tailwindcss/commit/493e77e) 2022-09-13 - update tailwindcss config
 *  [`be918d7`](https://github.com/dotdwebo/learn-tailwindcss/commit/be918d7) 2022-09-13 - update tailwind config
 *  [`f9483e1`](https://github.com/dotdwebo/learn-tailwindcss/commit/f9483e1) 2022-09-13 - update tailwindcss config
 *  [`43ed0f1`](https://github.com/dotdwebo/learn-tailwindcss/commit/43ed0f1) 2022-09-12 - create product 01

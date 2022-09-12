@@ -5,19 +5,41 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product 01</title>
-    <link rel="stylesheet" href="./../dist/output.css">
+    <link rel="stylesheet" href="../../dist/output.css">
 </head>
-<body class=" bg-gray-200">
+<body class=" bg-gray-800">
     <div>
         <div>
-        <h1 class="text-3xl font-bold p-10 bg-gradient-to-r from-blue-500 to-gray-900 text-yellow-500 text-center">.yourdomain</h1>
-        <span class="p-2 font-bold">Category: random</span>
-        <span class="m-5 p-2 bg-yellow-500 font-bold rounded">Price: 500 $HNS</span>
-        <p class="p-3 text-xl text-gray-900">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque quia quam voluptatem quasi aperiam deserunt et delectus. Cum, velit iste fuga atque at esse eius. Cupiditate consequatur facilis nisi perferendis.</p>
+        <h1 class="text-3xl lg:text-5xl font-bold p-10 bg-gray-900 text-white text-center shadow-xl">.yourdomain</h1>
+
+        <div class="flex m-2">
+            <div class="flex-1 p-2  sm:mx-6 md:mx-16 lg:ml-72 text-gray-100 text-sm font-bold uppercase">Category: <span class=" text-blue-300"> <a href="#"> general</a></span></div>
+            <div class="flex-none  py-2 lg:py-3 px-3 sm:mx-6 md:mx-16 lg:mr-80 lg:text-xl text-sm font-bold rounded-xl bg-gradient-to-r from-green-300 to-green-400 text-right">500 $HNS</div>
         </div>
         
-        <div class="flex justify-center">
-            <button class="bg-green-500 uppercase p-2 w-max m-2 font-bold text-xl shadow-xl">Buy The SLD</button>
+        <div class="mt-8 mb-2 mx-2 sm:mx-10 md:mx-20 lg:mx-80 pb-5 sm:pb-10 md:pb-20 text-xl text-justify text-gray-200 bg-black ">
+            <div class="flex   p-2 bg-gradient-to-r from-gray-200 to-gray-400">
+                <div class="m-1 rounded-full w-4 h-4 bg-red-500 border-red-700 border-4 shadow-xl"></div>
+                <div class="m-1 rounded-full w-4 h-4 bg-yellow-500 border-yellow-700 border-4 shadow-xl"></div>
+                <div class="m-1 rounded-full w-4 h-4 bg-green-500 border-green-700 border-4 shadow-xl"></div>
+            </div>
+
+            <div >
+                <p class="p-3 sm:px-10 md:px-15 font-bold "> ~ Description:</p> 
+                <p class="px-3 sm:px-10 md:px-15 py-1 text-lg leading-normal">
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque quia quam voluptatem quasi aperiam deserunt et delectus.
+                </p>
+            </div>
+            
+            
+        </div>
+        </div>
+        
+        <div class="flex justify-center ">
+            <a href="#" class="bg-gradient-to-r from-cyan-400 to-cyan-600  uppercase p-2 m-2 sm:mx-10 md:mx-20 lg:mx-80 font-bold text-xl shadow-xl w-full text-center">
+                <span type="button" >Buy The SLD</span>
+            </a>
+            
         </div>
     </div>
 </body>
