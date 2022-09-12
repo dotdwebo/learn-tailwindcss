@@ -1,3 +1,4 @@
+*  [`450d85b`](https://github.com/dotdwebo/learn-tailwindcss/commit/450d85b) 2022-09-13 - update readme
 *  [`75ede2d`](https://github.com/dotdwebo/learn-tailwindcss/commit/75ede2d) 2022-09-13 - update readme
 *  [`b8e159c`](https://github.com/dotdwebo/learn-tailwindcss/commit/b8e159c) 2022-09-13 - upload image
 *  [`7095f61`](https://github.com/dotdwebo/learn-tailwindcss/commit/7095f61) 2022-09-13 - update readme
