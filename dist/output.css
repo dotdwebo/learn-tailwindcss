@@ -1066,6 +1066,10 @@ video {
   --tw-gradient-to: #ef4444;
 }
 
+.to-gray-900 {
+  --tw-gradient-to: #111827;
+}
+
 .p-10 {
   padding: 2.5rem;
 }
