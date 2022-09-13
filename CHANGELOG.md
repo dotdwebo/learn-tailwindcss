@@ -1,3 +1,4 @@
+*  [`1ca989e`](https://github.com/dotdwebo/learn-tailwindcss/commit/1ca989e) 2022-09-13 - update readme
 *  [`fb56246`](https://github.com/dotdwebo/learn-tailwindcss/commit/fb56246) 2022-09-13 - upload image
 *  [`ddefbc8`](https://github.com/dotdwebo/learn-tailwindcss/commit/ddefbc8) 2022-09-13 - create product 02
 *  [`450d85b`](https://github.com/dotdwebo/learn-tailwindcss/commit/450d85b) 2022-09-13 - update readme
