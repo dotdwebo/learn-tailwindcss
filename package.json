@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dotdwebo/learn-tailwindcss/issues"
   },
-  "homepage": "https://github.com/dotdwebo/learn-tailwindcss#readme"
+  "homepage": "https://github.com/dotdwebo/learn-tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
 }

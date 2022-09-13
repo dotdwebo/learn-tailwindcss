@@ -1,3 +1,4 @@
+*  [`c8bb55d`](https://github.com/dotdwebo/learn-tailwindcss/commit/c8bb55d) 2022-09-13 - upload logo
 *  [`a9830fd`](https://github.com/dotdwebo/learn-tailwindcss/commit/a9830fd) 2022-09-13 - upload logo
 *  [`e6e4b61`](https://github.com/dotdwebo/learn-tailwindcss/commit/e6e4b61) 2022-09-13 - remove logo
 *  [`4b36cb1`](https://github.com/dotdwebo/learn-tailwindcss/commit/4b36cb1) 2022-09-13 - upload image
