@@ -1,3 +1,4 @@
+*  [`e6e4b61`](https://github.com/dotdwebo/learn-tailwindcss/commit/e6e4b61) 2022-09-13 - remove logo
 *  [`4b36cb1`](https://github.com/dotdwebo/learn-tailwindcss/commit/4b36cb1) 2022-09-13 - upload image
 *  [`e30dc87`](https://github.com/dotdwebo/learn-tailwindcss/commit/e30dc87) 2022-09-13 - build landingpage
 *  [`1ca989e`](https://github.com/dotdwebo/learn-tailwindcss/commit/1ca989e) 2022-09-13 - update readme
